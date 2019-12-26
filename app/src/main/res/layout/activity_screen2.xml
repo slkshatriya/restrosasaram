@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:background="#FF9800"
         android:gravity="center"
+        android:layout_marginTop="25dp"
         android:text="Welcome in best restaurents of sasaram"
         android:textColor="#E91E63"
         android:textSize="30sp"
